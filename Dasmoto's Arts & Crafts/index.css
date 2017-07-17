@@ -1,0 +1,44 @@
+
+@import url('http://fonts.googleapis.com/css?family=Lobster');
+body {
+  background-image: url("http://artsandcraftvideography.com/assets_d/53963/web_media/3ds_intro-outro-full-background-01_117.jpg");}
+h1 {
+  font-family: Lobster;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+h3 {
+  font-weight: bold;
+  font-family: Helvetica;
+  color: #ff0000;
+}
+p {
+  font-family: Helvetica;
+  font-weight: 400;
+}
+span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+.frames {
+  background-color: lightcoral;
+  opacity: 0.75;
+}
+.paint {
+  background-color: skyblue;
+  opacity: 0.75;
+}
+.brushes {
+  background-color: mediumspringgreen;
+  opacity: 0.75;
+}
